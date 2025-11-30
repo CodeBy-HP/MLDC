@@ -1,0 +1,16 @@
+ID,City,Color,Education,Neighborhood,ProductCategory,Channel,Purchased
+1,Delhi,Red,High School,ZoneA,Electronics,Online,Yes
+2,Mumbai,Blue,Bachelors,ZoneC,Groceries,Retail,No
+3,Bangalore,Green,Masters,ZoneB,Clothing,Online,Yes
+4,Delhi,Blue,PhD,ZoneA,Furniture,Agent,No
+5,Chennai,Red,Bachelors,ZoneD,Electronics,Online,Yes
+6,Mumbai,Green,High School,ZoneC,Clothing,Retail,No
+7,Delhi,Blue,Masters,ZoneA,Groceries,Online,Yes
+8,Chennai,Green,PhD,ZoneD,Furniture,Agent,No
+9,Pune,Yellow,Bachelors,ZoneE,Electronics,Online,Yes
+10,Hyderabad,Blue,Masters,ZoneF,Furniture,Agent,No
+11,Pune,Red,High School,ZoneE,Clothing,Retail,No
+12,Ahmedabad,Green,PhD,ZoneG,Electronics,Online,Yes
+13,Surat,Yellow,Bachelors,ZoneH,Groceries,Retail,No
+14,Jaipur,Red,Masters,ZoneI,Electronics,Online,Yes
+15,Kolkata,Blue,PhD,ZoneJ,Clothing,Agent,No
